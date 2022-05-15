@@ -23,9 +23,6 @@
     }
   ],
   "parses": [
-  {"name":"Json并发","type":2,"url":"Parallel"},
-
-	{"name":"Json轮询","type":2,"url":"Sequence"},
 
 	{"name":"高清解析1","type":0,"url":"https://titan.mgtv.com.jumi.tv/player/?url="},
 
