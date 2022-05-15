@@ -22,8 +22,7 @@
       ]
     }
   ],
-  "parses": [
-   {
+  {
       "name": "Json并发",
       "type": 2,
       "url": "Parallel"
@@ -889,7 +888,22 @@
     {
       "name": "娃娃",
       "url": "http://frog.pinellia.xyz/jx/?url="
-    }}],
+    },
+    {
+      "name": "人人迷",
+      "url": "https://jx.renrenmi.cc/?url="
+    },
+    {
+      "name": "扶风",
+      "type": 1,
+      "url": "https://vip.byteamone.cn/api/?key=vpO0packXeAp4XYCnA&url="
+    },
+    {
+      "name": "追剧达人3",
+      "type": 1,
+      "url": "http://jx.vipmv.co/json3/?url="
+    }
+  ],
   "flags": [
     "youku",
     "qq",
