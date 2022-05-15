@@ -22,6 +22,7 @@
       ]
     }
   ],
+  "parses": [
   {
       "name": "Json并发",
       "type": 2,
