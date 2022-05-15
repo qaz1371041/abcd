@@ -23,7 +23,24 @@
     }
   ],
   "parses": [
-
+   {
+      "name": "Json并发",
+      "type": 2,
+      "url": "Parallel"
+    },
+    {
+      "name": "Json轮询",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
+      "name": "parwix解析",
+      "url": "https://jx.parwix.com:4433/player/?url="
+    },
+    {
+      "name": "默认",
+      "url": "https://api.jhdyw.vip/?url="
+    },
 	{"name":"高清解析1","type":0,"url":"https://titan.mgtv.com.jumi.tv/player/?url="},
 
 	{"name":"高清解析2","type":0,"url":"https://dmku.dijiaxia.com/?url="},
