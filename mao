@@ -1,3 +1,4 @@
+"spider":"https://notabug.org/tomb003/CatVodTVSpider/raw/master/jar/custom_spider.jar"
 {
 "sites": [
 {"key": "天天","name": "天天","type": 0,"api": "http://tt2022.ga/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 1},
