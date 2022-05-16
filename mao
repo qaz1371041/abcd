@@ -8,7 +8,7 @@
 {"key": "黄AV资源站","name": "黄AV资源站","type": 0,"api": "https://www.pgxdy.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key":"M3U8采集","name":"M3U8","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/at/xml","playUrl":""},
 {"key":"8090","name":"8090","type":0,"api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml/","playUrl":""},
-{"key": "kk","name": "kk","type": 1,"api": "https://kkzy5.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "kk","name": "kk","type": 1,"api": "https://kkzy5.com/api.php/provide/vod/?ac=list","playUrl": "https://api.leduotv.com/wp-api/ifr.php?isDp=1&vid=", "searchable": 1,"quickSearch": 1,"filterable": 1,"categories": [  ] },
 {"key": "天天","name": "天天","type": 0,"api": "http://tt2022.ga/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"江北采集","name":"江北","type":0,"api":"https://gfzycj.hnmj.vip/api.php/provide/vod/at/xml/","playUrl":""},
 
