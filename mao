@@ -2,9 +2,8 @@
 "sites": [
 {"key":"独播","name":"独播#","type":3,"api":"csp_AppYs","filterable":1,"ext":"http://35ys.cc/api.php/v1.vod"},
 {"key":"江北采集","name":"江北","type":0,"api":"https://gfzycj.hnmj.vip/api.php/provide/vod/at/xml/","playUrl":""},
-{"key":"KK采集","name":"KK","type":1,"api":"https://kkzy.me/api.php/provide/vod/at/xml/","playUrl":""},
 
-
+{"key": "kk","name": "kk","type": 0,"api": "https://kkzy5.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 1 },
 {"key": "天天","name": "天天","type": 0,"api": "http://tt2022.ga/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"U酷采集","name":"U酷","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/?ac=list","playUrl":"https://api.ukubf.com/m3u8/?url="},
 {"key":"极速官采","name":"极速官采","type":1,"api":"http://gc.zhuijuba.vip/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
