@@ -57,7 +57,7 @@
     },
     
     {
-      "group": "福利频道"","urls":["
+      "group": "福利频道"",
       "channels": [
  {"name":"松视1台"","urls":[""urls":["mitv://ns2.hellotvvod.com:9906/2b2051e6c8a24f18a0ec7ca6f41ca840.ts"]},
  {"name":"松视2台","urls":["mitv://ns2.hellotvvod.com:9906/b5eb6088e0bb4aa692bf7209bcf0c4b1.ts"]},
@@ -132,7 +132,7 @@
  {"name":"日本一本道无码","urls":["p3p://45.86.67.154:9906/5d59962f00074b49077a9e76646ad3d6"]},
  {"name":"日本天热素人无码","urls":["p3p://45.86.67.154:9906/5d59966d000e5f60077b9276d8257da1"]}
     ]
-    },
+   }, 
     
     {
       "group": "咪咕专场",
