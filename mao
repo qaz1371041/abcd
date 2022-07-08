@@ -14,7 +14,8 @@
 {"key": "哥哥妹妹","name": "哥哥妹妹","type": 0,"api": "http://www.ggmmzy.com:9999/inc/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "色色资源","name": "色色资源","type": 0,"api": "http://www.ggmmzy.com:9999/inc/xml",, "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "哥哥妹妹","name": "哥哥妹妹","type": 0,"api": "http://whttp://secj8.com/inc/sapi.php?ac=videolistww.ggmmzy.com:9999/inc/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key": "哥哥妹妹","name": "哥哥妹妹","type": 0,"api": "http://www.ggmmzy.com:9999/inc/xml":0},
+{"key": "色屌丝资源","name": "色屌丝资源","type": 0,"api": "http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+
 
 
 {"key":"M3U8采集","name":"M3U8","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/at/xml","playUrl":""},
