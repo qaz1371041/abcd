@@ -7,14 +7,13 @@
 {"key": "小湿妹资源站","name": "小湿妹资源站","type": 0,"api": "https://www.afasu.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "黄AV资源站","name": "黄AV资源站","type": 0,"api": "https://www.pgxdy.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 
-{"key":"影库资源","name":"*影库资源","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key": "zp067","name": "环亚资源-无码","type": 0,"api": "http://wmcj8.com/inc/sapi.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key": "精工厂","name": "精工厂","type": 0,"api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml","searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "影库资源","name": "影库资源","type": 0,"api": "https://api.ykapi.net/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "环亚资源","name": "环亚资源","type": 0,"api": "http://wmcj8.com/inc/sapi.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "精工厂","name": "精工厂","type": 0,"api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "屌丝","name": "屌丝","type": 0,"api": "https://sdszyapi.com/home/cjapi/asbb/sea/vod/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key": "哥哥妹妹","name": "哥哥妹妹","type": 0,"api": "http://www.ggmmzy.com:9999/inc/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key": "色色资源","name": "色色资源","type": 0,"api": "http://www.ggmmzy.com:9999/inc/xml",, "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key": "哥哥妹妹","name": "哥哥妹妹","type": 0,"api": "http://whttp://secj8.com/inc/sapi.php?ac=videolistww.ggmmzy.com:9999/inc/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "色色资源","name": "色色资源","type": 0,"api": "http://www.ggmmzy.com:9999/inc/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "色屌丝资源","name": "色屌丝资源","type": 0,"api": "http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+
 
 
 
