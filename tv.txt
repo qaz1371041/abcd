@@ -2237,7 +2237,16 @@ CCTV8电视剧,http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878356
 ♥️3D眼,#genre#
 魔法总动员,https://3dtv.one/3dvideo/%E9%AD%94%E6%B3%95%E6%80%BB%E5%8A%A8%E5%91%98.mp4
 复仇者联盟,https://3dtv.one/3dvideo/%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F.mp4
-
+太空黑猩猩2,https://3dtv.one/3dvideo/太空黑猩猩2.mp4                    
+攻壳机动队,
+新地岛,
+三个火枪手,
+圣诞惊魂夜,
+地心游记1,
+地心游记2,
+复仇者联盟4,
+奇异博士,
+变形金刚4,
 3D0,https://vd2.bdstatic.com/mda-kfhr50vjwtmttwxc/v1-cae/sc/mda-kfhr50vjwtmttwxc.mp4
 3D1,https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/1080p/cae_h264/1618549960/mda-mdfijn4crxseyky0.mp4
 3d4,https://vd2.bdstatic.com/mda-kmtfv6y5gctpa35w/sc/mda-kmtfv6y5gctpa35w.mp4
