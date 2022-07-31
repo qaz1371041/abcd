@@ -2235,18 +2235,7 @@ CCTV8电视剧,http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878356
 
 
 ♥️3D眼,#genre#
-魔法总动员,https://3dtv.one/3dvideo/魔法总动员.mp4
-复仇者联盟,https://3dtv.one/3dvideo/复仇者联盟.mp4
-太空黑猩猩2,https://3dtv.one/3dvideo/太空黑猩猩2.mp4                    
-攻壳机动队,https://3dtv.one/3dvideo/攻壳机动队.mp4
-新地岛,https://3dtv.one/3dvideo/新地岛.mp4
-三个火枪手,https://3dtv.one/3dvideo/三个火枪手.mp4
-圣诞惊魂夜,https://3dtv.one/3dvideo/圣诞惊魂夜.mp4
-地心游记1,https://3dtv.one/3dvideo/地心游记1.mp4
-地心游记2,https://3dtv.one/3dvideo/地心游记2.mp4
-复仇者联盟4,https://3dtv.one/3dvideo/复仇者联盟4_剪辑版.mp4
-奇异博士,https://3dtv.one/3dvideo/奇异博士_1_剪辑版.mp4
-变形金刚4,https://3dtv.one/3dvideo/变形金刚4_剪辑版.mp4
+
 3D0,https://vd2.bdstatic.com/mda-kfhr50vjwtmttwxc/v1-cae/sc/mda-kfhr50vjwtmttwxc.mp4
 3D1,https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/1080p/cae_h264/1618549960/mda-mdfijn4crxseyky0.mp4
 3d4,https://vd2.bdstatic.com/mda-kmtfv6y5gctpa35w/sc/mda-kmtfv6y5gctpa35w.mp4
@@ -2273,7 +2262,18 @@ X战警：黑凤凰,https://vd2.bdstatic.com/mda-jetjizur4bnmfux8/hd/mda-jetjizu
 司藤,https://vd4.bdstatic.com/mda-nae2xzfan0zk06f7/sc/cae_h264_delogo/1642265942028031063/mda-nae2xzfan0zk06f7.mp4
 星球大战9,https://vd3.bdstatic.com/mda-ndfj480755j9juhe/cae_h264_delogo/1650116825326935651/mda-ndfj480755j9juhe.mp4
 MV,https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7nzc.mp4
-
+魔法总动员,https://3dtv.one/3dvideo/魔法总动员.mp4
+复仇者联盟,https://3dtv.one/3dvideo/复仇者联盟.mp4
+太空黑猩猩2,https://3dtv.one/3dvideo/太空黑猩猩2.mp4                    
+攻壳机动队,https://3dtv.one/3dvideo/攻壳机动队.mp4
+新地岛,https://3dtv.one/3dvideo/新地岛.mp4
+三个火枪手,https://3dtv.one/3dvideo/三个火枪手.mp4
+圣诞惊魂夜,https://3dtv.one/3dvideo/圣诞惊魂夜.mp4
+地心游记1,https://3dtv.one/3dvideo/地心游记1.mp4
+地心游记2,https://3dtv.one/3dvideo/地心游记2.mp4
+复仇者联盟4,https://3dtv.one/3dvideo/复仇者联盟4_剪辑版.mp4
+奇异博士,https://3dtv.one/3dvideo/奇异博士_1_剪辑版.mp4
+变形金刚4,https://3dtv.one/3dvideo/变形金刚4_剪辑版.mp4
 
 ⚽🏀体育,#genre#
 
