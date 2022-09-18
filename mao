@@ -7,27 +7,11 @@
 {"key": "小湿妹资源站","name": "小湿妹资源站","type": 0,"api": "https://www.afasu.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "黄AV资源站","name": "黄AV资源站","type": 0,"api": "https://www.pgxdy.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 
-{"key": "影库资源","name": "影库资源","type": 0,"api": "https://api.ykapi.net/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key": "环亚资源","name": "环亚资源","type": 0,"api": "http://wmcj8.com/inc/sapi.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key": "精工厂","name": "精工厂","type": 0,"api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key": "屌丝","name": "屌丝","type": 0,"api": "https://sdszyapi.com/home/cjapi/asbb/sea/vod/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key": "色色资源","name": "色色资源","type": 0,"api": "http://www.ggmmzy.com:9999/inc/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key": "色屌丝资源","name": "色屌丝资源","type": 0,"api": "http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 
 
 
 
-{"key":"M3U8采集","name":"M3U8","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/at/xml","playUrl":""},
-{"key":"8090","name":"8090","type":0,"api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml/","playUrl":""},
-{"key": "KK","name": "KK","type": 0,"api": "https://kkzy5.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "天天","name": "天天","type": 0,"api": "http://tt2022.ga/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"江北采集","name":"江北","type":0,"api":"https://gfzycj.hnmj.vip/api.php/provide/vod/at/xml/","playUrl":""},
 
-
-
-{"key": "csp_Blixs"      ,"name":"相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_Bliyc"      ,"name":"演唱会","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_Blidw"      ,"name":"动物世界","type": 3,"api": "csp_Blidw","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"极速官采","name":"极速官采","type":1,"api":"http://gc.zhuijuba.vip/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1}],
 
